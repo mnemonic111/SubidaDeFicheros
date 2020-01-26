@@ -1,0 +1,15 @@
+{
+  "name": "subirarchivos",
+  "version": "1.0.0",
+  "description": "- *Modulo*: https://www.npmjs.com/package/express-fileupload",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Gonzalo Mateos Glez-sicilia",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.17.1",
+    "express-fileupload": "^1.1.6"
+  }
+}
